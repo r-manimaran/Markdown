@@ -58,7 +58,7 @@ flowchart TD
     D --> E[Enjoy your weekend!]
 ```
 
-# With hyyperlink and Tooltip
+# With hyperlink and Tooltip
 ```mermaid
 flowchart LR;
     A-->B;
